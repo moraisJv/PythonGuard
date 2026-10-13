@@ -14,13 +14,13 @@
   def
        print("what's your number? 
      number = int(input(number))
-  if len()
+  
  # Validação do CPF (guardado como texto) 
   def
     print("what's your CPF?")
      CPF = int(input(number))
-    print(f"Processo concluído para o CPF: {cpf}")
+    print(f"Processo concluído para o CPF: {CPF}")
 
 
  # hello world, this code was made for 1337(me), he is a god students btw !
- # thiss code was made for ETEC Uirapuru student
+ # this code was made for ETEC Uirapuru student
